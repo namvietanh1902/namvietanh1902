@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Nguyen Pham Nam Anh - an enthusiasm backend developer
 
-- 🔭 I’m currently working on a product company.
+- 🔭 I’m currently looking for internship and fresher job
 - 🌱 I’m currently learning microservices ...
-- 👯 I’m looking to collaborate on opensource and product project.
+
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about: Javascript, PHP 
 - 📫 How to reach me: [!email](namvietanh2002@gmail.com) 
