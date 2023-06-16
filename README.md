@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning microservices ...
 
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about: Javascript, PHP 
+- 💬 Ask me about: Typescript
 - 📫 How to reach me: [!email](namvietanh2002@gmail.com) 
 - 😄 I love reading books and summarize what i learn: Clean code
 <!-- - ⚡ Fun fact: ... -->
